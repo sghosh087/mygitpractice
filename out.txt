@@ -1,6 +1,0 @@
-file1.php
-file2.php
-file3.php
-outfile.txt
-out.txt
-test.txt
